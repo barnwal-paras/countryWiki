@@ -38,7 +38,7 @@ function App() {
       return <div>No value provided for search</div>;
     }
     const filtered_data = data.filter(country =>
-      country.name.toLowerCase().includes(text.toLowerCase())
+      country.name.toLowerCase().startsWith(text.toLowerCase())
     );
     if (filtered_data.length == 0) {
       return <div>No country with such name.</div>;
