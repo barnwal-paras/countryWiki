@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/countryWiki/static/js/main.649d4185.chunk.js",
-    "main.js.map": "/countryWiki/static/js/main.649d4185.chunk.js.map",
+    "main.js": "/countryWiki/static/js/main.875f4fc9.chunk.js",
+    "main.js.map": "/countryWiki/static/js/main.875f4fc9.chunk.js.map",
     "runtime-main.js": "/countryWiki/static/js/runtime-main.b0da5d7e.js",
     "runtime-main.js.map": "/countryWiki/static/js/runtime-main.b0da5d7e.js.map",
     "static/js/2.ef40cde0.chunk.js": "/countryWiki/static/js/2.ef40cde0.chunk.js",
     "static/js/2.ef40cde0.chunk.js.map": "/countryWiki/static/js/2.ef40cde0.chunk.js.map",
     "index.html": "/countryWiki/index.html",
-    "precache-manifest.fc0f48882be7371cdaf25a27ec24c120.js": "/countryWiki/precache-manifest.fc0f48882be7371cdaf25a27ec24c120.js",
+    "precache-manifest.66afcd6691c7a1cd92ade94f2cedbc1b.js": "/countryWiki/precache-manifest.66afcd6691c7a1cd92ade94f2cedbc1b.js",
     "service-worker.js": "/countryWiki/service-worker.js",
     "static/js/2.ef40cde0.chunk.js.LICENSE": "/countryWiki/static/js/2.ef40cde0.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b0da5d7e.js",
     "static/js/2.ef40cde0.chunk.js",
-    "static/js/main.649d4185.chunk.js"
+    "static/js/main.875f4fc9.chunk.js"
   ]
 }
